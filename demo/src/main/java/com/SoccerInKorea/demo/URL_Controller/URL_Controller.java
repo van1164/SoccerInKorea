@@ -1,5 +1,4 @@
-package com.SoccerInKorea.demo;
-
+package com.SoccerInKorea.demo.URL_Controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
